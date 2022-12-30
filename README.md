@@ -6,3 +6,6 @@
 ## Microsoft App Services :- https://orthoc.azurewebsites.net
 ![image](https://user-images.githubusercontent.com/116788815/198888533-a940ac56-5324-437c-8b6b-bc42ceff4614.png)
 ##
+## Used microsoft Azure tools 
+![image](https://user-images.githubusercontent.com/116788815/210079337-9ddcca11-f5bf-4714-b7e8-577eaea15882.png)
+##
