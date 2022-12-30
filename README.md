@@ -9,3 +9,19 @@
 ## Used microsoft Azure tools 
 ![image](https://user-images.githubusercontent.com/116788815/210079337-9ddcca11-f5bf-4714-b7e8-577eaea15882.png)
 ##
+## Project details
+
+# The below details are as per your Project Synopsis submission. Based on your final project you can edit these fields. Ensure that the information provided is accurate. The project will be evaluated based on the details submitted and in case of any deviation or incorrect information the project can be rejected.
+
+# Industry : Health
+
+# Project Title : Orthoc
+
+# Problem Statement/Opportunity : Help regarding one's health care
+
+# Project Description : I have created a webpage to track your health issues. I have created a main index HTML page with supporting 4 HTML files - about, contact, departments, doctors which supports the main HTML page.
+
+# Primary Azure Technology : App Service, Static Web Apps.
+
+##
+##
