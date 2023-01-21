@@ -1,5 +1,9 @@
 ## orthoc --Microsoft Azure Project ( Future Ready Talent Project )
 ## Project details :-
+Many older adults share a common concern: “Can I trust the health information I find online?” There are thousands of medical websites. Some provide up-to-date medical news and reliable health information, and some do not. Choosing trustworthy websites is an important step in gathering reliable health information.
+
+Microsoft Future Ready Talent Project ( Front end website page using Azure services ).
+
 **Industry :** Health
 
 **Project Title :** Orthoc
@@ -10,11 +14,11 @@
 
 **Primary Azure Technology :** App Service, Static Web Apps.
 
-## Static Web Apps URL :- https://brave-rock-0baa7c110.2.azurestaticapps.net
+## Static Web Apps URL : https://brave-rock-0baa7c110.2.azurestaticapps.net
 
-## App Services URL :- https://orthoc.azurewebsites.net
+## App Services URL : https://orthoc.azurewebsites.net
 
-## My website link :- https://rajarajeswari14.github.io/orthoc/
+## My website link : https://rajarajeswari14.github.io/orthoc/
 
 ## Home 
 ## ![image](https://user-images.githubusercontent.com/116788815/213879236-95a8430f-98ca-40fc-9b3e-98833bddc2d4.png)
@@ -38,13 +42,11 @@
 ## Demo video :
 
 https://user-images.githubusercontent.com/116788815/213880078-48493351-49e6-45c6-8a4b-b2f034e560a3.mp4
-
+##
 ## Azure services used :-
 
 ## ![image](https://user-images.githubusercontent.com/116788815/213878711-5571cadf-93cc-420f-af08-199659515ec3.png)
 ##
-##
 ## ![image](https://user-images.githubusercontent.com/116788815/213878780-ed26b273-fe8c-41cc-83af-e686fae0f5f7.png)
-##
 ##
 ## ![image](https://user-images.githubusercontent.com/116788815/213878864-f45c2056-0b68-4f8b-b67b-e2ef523d50c4.png)
